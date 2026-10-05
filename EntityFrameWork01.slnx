@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DatabaseFirst/DatabaseFirst.csproj" Id="04a4aa70-a79f-4455-99b3-c1e10889d914" />
+  <Project Path="EntityFrameWork01/EntityFrameWork01.csproj" />
+</Solution>

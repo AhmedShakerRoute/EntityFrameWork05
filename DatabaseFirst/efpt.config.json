@@ -1,0 +1,94 @@
+﻿{
+   "CodeGenerationMode": 6,
+   "ContextClassName": "CityLibraryDbContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "IrregularWords": null,
+   "MinimumProductVersion": "2.6.1706",
+   "ModelNamespace": "",
+   "OutputContextPath": "DbContextData",
+   "OutputPath": "Models",
+   "PluralRules": null,
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DatabaseFirst",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "SingularRules": null,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Members]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Library].[Authors]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Library].[BookCopies]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Library].[Books]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Library].[Books_Authors]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Library].[BorrowTransactions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Library].[Fines]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Management].[Branches]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Management].[Librarians]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AuthorsBooks]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[SP_AuthorBooks]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": true,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": true,
+   "UseManyToManyEntity": true,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": true,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false,
+   "UseTypedTvpParameters": true
+}
